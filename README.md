@@ -1,5 +1,4 @@
 SolutionGTK — AI Business & Franchise Builder
-
 Overview
 
 SolutionGTK is a full-stack AI-powered platform designed to help users build and scale digital businesses and franchises automatically — without requiring coding skills. It combines AI automation, responsive design, and integrated business management in one seamless system.
